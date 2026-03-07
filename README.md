@@ -1,4 +1,4 @@
-# Databricks Data Engineering Pipeline
+# Databricks Medallion Data Pipeline for Enterprise Analytics
 
 ## Overview
 
